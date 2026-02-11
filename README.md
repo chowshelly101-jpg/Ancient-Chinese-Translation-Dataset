@@ -1,7 +1,6 @@
 # Ancient-Chinese-Translation-Dataset
 ### A dataset for translating Ancient Chinese to Modern Chinese and English.
 
-![DH Awards 2025 Nominee](https://img.shields.io/badge/DH%20Awards-2025%20Nominee-blue)
 ![Data Size](https://img.shields.io/badge/Total%20Corpus-490k%2B%20Pairs-green)
 ![License](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey)
 
